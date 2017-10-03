@@ -1,6 +1,6 @@
 # haskell learning
 
-> Learning about haskell
+> Learning about [Haskell](https://www.haskell.org/)
 
 Examples from book [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/).
 
