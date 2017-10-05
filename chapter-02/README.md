@@ -1,6 +1,6 @@
-# chapter 02
+# Chapter 2
 
-> Believe the Type
+> "Believe the Type"
 
 ## Notes
 

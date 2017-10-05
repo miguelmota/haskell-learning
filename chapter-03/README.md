@@ -1,6 +1,6 @@
-# chapter 02
+# Chapter 3
 
-> Syntax in Functions
+> "Syntax in Functions"
 
 ## Notes
 

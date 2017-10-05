@@ -1,6 +1,6 @@
-# chapter 01
+# Chapter 1
 
-> Starting Out
+> "Starting Out"
 
 Install on MacOS
 
