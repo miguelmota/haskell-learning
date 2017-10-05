@@ -8,10 +8,16 @@ Install on MacOS
 brew install ghc cabal-install
 ```
 
+In `~/.ghci`:
+
+```
+:set prompt "ghci> "
+```
+
 Interative prompt
 
 ```bash
-ghci
+$ ghci
 ```
 
 ## Notes
